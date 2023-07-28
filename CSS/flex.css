@@ -1,0 +1,29 @@
+.test1,.test2{
+    box-shadow: 5px 5px 5px 5px black;
+    margin: 5px;
+    border: 1px;
+    padding: 1px;
+    padding-left: 130px;
+    padding-right: 150px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-radius: 50px;
+    border-width: 50px;
+ box-sizing: 200px;
+ font-size: small;
+}
+.divss{
+    box-shadow: 5px 6px 5px 6px black;
+    border-radius: 50px;
+    border: 1px;
+    padding: 1px;
+    margin: 5px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    background-color: red;
+
+}
+.quare{
+    height: 50px;
+    width: 50px;
+}
